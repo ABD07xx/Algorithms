@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-	int i,temp,size,a[100],element;
+	int i,size,a[100],element;
 	printf("Enter size of array: ");
 	scanf("%d",&size);
 	for(i=0;i<size;i++){
